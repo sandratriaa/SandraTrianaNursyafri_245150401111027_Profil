@@ -24,4 +24,4 @@ Project ini menggunakan beberapa komponen utama Jetpack Compose:
 
 ## Screenshot Hasil
 
-![Profile Page](screenshots/SandraTrianaNursyafri_245150XXXX.png)
+![Profile Page](My Profile.jpeg)
