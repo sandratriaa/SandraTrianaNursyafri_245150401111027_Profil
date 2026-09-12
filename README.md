@@ -24,4 +24,4 @@ Project ini menggunakan beberapa komponen utama Jetpack Compose:
 
 ## Screenshot Hasil
 
-![Profile Page](My Profile.jpeg)
+![Profile Page](MyProfile.jpeg)
