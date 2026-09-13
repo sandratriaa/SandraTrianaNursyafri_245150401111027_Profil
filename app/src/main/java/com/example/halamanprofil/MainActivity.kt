@@ -93,7 +93,7 @@ fun HalamanProfil(){
             )
 
             Text(
-                text = "Computer Science", fontSize = 16.sp
+                text = "245150401111027", fontSize = 16.sp
             )
 
             Text(
